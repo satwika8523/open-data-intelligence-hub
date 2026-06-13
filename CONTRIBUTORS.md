@@ -34,5 +34,6 @@ Student contributor names can be added below as the projects are completed.
 | --------------- | --------------- | --------------------------------------- |
 | Lahari Prasanna | G40 AI/ML Batch | Developer Career Intelligence Warehouse |
 | Abhishek Chauhan | G40 AI/ML Batch | Economic Development Analytics     |
+| Varsha Chinnanarasannagari | G40 AI/ML Batch | Analyze and Predict Developer Salaries |
 
 
