@@ -30,15 +30,12 @@ This repository also includes project work and learning contributions from the *
 
 Student contributor names can be added below as the projects are completed.
 
-| Name             | Batch           | Project / Contribution              |
-| ---------------- | --------------- | ----------------------------------- |
-| To be updated    | G40 AI/ML Batch | Open Data Intelligence Hub projects |
-
-
 | Name            | Batch           | Project / Contribution                  |
 | --------------- | --------------- | --------------------------------------- |
 | Lahari Prasanna | G40 AI/ML Batch | Developer Career Intelligence Warehouse |
 | Abhishek Chauhan | G40 AI/ML Batch | Economic Development Analytics     |
+| Guvvadi Ganesh   | G40 AI/ML Batch | Global Poverty Intelligence Platform|
+| Eswar | G40 AI/ML Batch | Wildfire Risk Intelligence Engine |
 | Varsha Chinnanarasannagari | G40 AI/ML Batch | Analyze and Predict Developer Salaries |
 | Sumasri          | G40 AI/ML Batch | Biodiversity-Hotspot-Detection      |
 | Venkata Vivek | G40 AI/ML Batch | Global Earthquake Analytics Platform |
